@@ -31,7 +31,7 @@ public class DataInitializer implements CommandLineRunner {
             System.out.println("Book Id: " + book.getId());
             System.out.println("Book Title: " + book.getTitle());
         });
-//
+
 
     }
 }
